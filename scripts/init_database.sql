@@ -11,6 +11,7 @@ create database DataWarehouse;
 
 use DataWarehouse;
 
+--create three layers schemas
 go
 create schema bronze;
 go
